@@ -29,6 +29,6 @@ git clone https://github.com/flyingmangocat/liulian.git ./plugins/liulian-plugin
 
 * 往生堂业务群               790621765
 * liulian-plugin榴莲插件？   806760403
-* 欢迎进群打赏（别问为啥没有爱发电，问就是懒得弄Github）
+* 欢迎进群打赏（别问为啥没有爱发电，问就是懒得弄）
 
 #### 打赏列表
